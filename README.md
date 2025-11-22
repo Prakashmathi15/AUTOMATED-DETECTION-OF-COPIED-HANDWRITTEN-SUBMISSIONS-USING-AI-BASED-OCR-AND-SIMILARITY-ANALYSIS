@@ -91,7 +91,8 @@ ComparisonSequenceMatcherFinding longest contiguous matching subsequences.
 
 Semantic Analysis: Integrating BERT/RoBERTa to detect paraphrased content (copied ideas, not just words).   
 
-Web Interface: Developing a React/Flask web app for easy drag-and-drop usage.          
+Web Interface: Developing a React/Flask web app for easy drag-and-drop usage.       
+
 Internet Search: Extending the check to compare against online sources (Wikipedia, Chegg) via APIs.
 ## 👥 Contributors
   1.) PRAKASH M - CSE(CS)              
